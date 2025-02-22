@@ -43,8 +43,8 @@ python heart_of_the_project.py
 
 **Try these real conversations**:  
 - *Say:* "How do I say 'hope' in Farsi?"  
-- *Smile while asking* → "You seem excited to learn!" 😊  
-- *Frown during translation* → "Tough word? Let's break it down..." 🤔  
+- *Smile while asking* → "You seem excited to learn!"  
+- *Frown during translation* → "Tough word? Let's break it down..." 🤔 
 
 ## 🌱 Growing Together
 **Current Capabilities**:
