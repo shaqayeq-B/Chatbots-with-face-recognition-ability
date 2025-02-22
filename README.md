@@ -1,5 +1,3 @@
-Here's a more human-friendly version of the README with natural language and approachable formatting:
-
 ```markdown
 # 🤖 Emotion-Savvy Language Helper (Beta Prototype)
 
