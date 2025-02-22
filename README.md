@@ -1,5 +1,5 @@
 ```markdown
-# 🤖 Emotion-Savvy Language Helper (Beta Prototype)
+# 🤖 
 
 *"Where AI meets human expression"*
 
